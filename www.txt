@@ -1,0 +1,4 @@
+https://www.it-jim.com/blog/audio-processing-basics-in-python/
+https://www.kaggle.com/code/robikscube/working-with-audio-in-python
+
+
