@@ -1,3 +1,6 @@
+http://educalab.es/inee/evaluaciones-internacionales/preguntas-liberadas-pisa-piaac/preguntas-pisa-matematicas
+http://educalab.es/inee/evaluaciones-internacionales/pisa/informes-y-publicaciones/-/asset_publisher/cBieTD3vbe4h/content/pruebas-liberadas-pisa
+https://pisa-framework.oecd.org/science-2025/per_spa/
 https://stackoverflow.com/questions/61573928/using-ipython-display-audio-to-play-audio-in-jupyter-notebook-not-working-when-u
 https://www.toolify.ai/es/ai-news-es/procesamiento-de-datos-de-audio-en-python-642921
 https://aitor-medrano.github.io/iabd/audio/audio.html#el-sonido
